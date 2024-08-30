@@ -1,7 +1,3 @@
 .vscode/
 node_modules/
-*.js
-*.js.map
-*.ts
-*.tsbuildinfo
-*.vsix
+
